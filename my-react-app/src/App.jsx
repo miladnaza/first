@@ -9,6 +9,14 @@ function App() {
       <p>Date Of Birth: 1995-01-01</p>
       
       </>
+      <>
+        <H2>Michael Valde</H2>
+        <p>Date Of Birth: 1994-04-19</p>
+        <p>Favorite Food:Cake</p>
+        <p>Favorite Emoji:🍔</p>
+        <p>Birthplace:Earth</p>
+        
+      </>
     </div>
   );
 }
