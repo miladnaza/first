@@ -2,12 +2,13 @@ import React from 'react';
 
 function App() {
   return (
-    <div className="App">
-<<<<<<< Updated upstream
-      <h1>Hello, MiKE king  /h1>
-=======
-      <h1>Hello, Milad Nazari king </h1>
->>>>>>> Stashed changes
+    <div >
+      <h1>Team Member Profiles</h1>
+      <>
+      <h2>Milad Nazari</h2>
+      <p>Date Of Birth: 1995-01-01</p>
+      
+      </>
     </div>
   );
 }
