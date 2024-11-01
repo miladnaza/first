@@ -15,10 +15,11 @@ function App() {
       </>
       <>
         <h2>Michael Valde</h2>
-        <p>Date Of Birth: 1994-04-19</p>
-        <p>Favorite Food:Cake</p>
-        <p>Favorite Emoji:🍔</p>
-        <p>Birthplace:Earth</p>
+        <p><strong>Date Of Birth:</strong>1994-04-19</p>
+        <p><strong>Favorite Food:</strong>Cake</p>
+        <p><strong>Favorite Emoji:</strong>🍔</p>
+        <p><strong>Birthplace:</strong>Earth</p>
+        
         
       </>
     </div>
