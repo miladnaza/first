@@ -6,13 +6,15 @@ function App() {
       <h1>Team Member Profiles</h1>
       <>
       <h2>Milad Nazari</h2>
-      <p>Date Of Birth: 2000-10-30</p>
-      <p>Favorite food:pizza</p>
-      <p>Favorite Emoji:🦁</p>
-      <>Birthplace:Kabul</>
+      <p><strong>Date Of Birth:</strong> 2000-10-30</p>
+      <p><strong>Favorite food:</strong>pizza</p>
+      <p><strong>Favorite Emoji:</strong>🦁</p>
+      <><strong>Birthplace:</strong>Kabul</>
+      
+      
       </>
       <>
-        <H2>Michael Valde</H2>
+        <h2>Michael Valde</h2>
         <p>Date Of Birth: 1994-04-19</p>
         <p>Favorite Food:Cake</p>
         <p>Favorite Emoji:🍔</p>
@@ -20,7 +22,7 @@ function App() {
         
       </>
     </div>
-  );
+  )
 }
 
 export default App;
